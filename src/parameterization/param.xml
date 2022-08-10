@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="paramsuite">
+  <test name="paramtest">
+    <parameter name ="a" value = "Welcome" />
+    <parameter name ="b" value = " to selenium" />
+    <parameter name ="num" value = "21" />
+    
+    <classes>
+      <class name="parameterization.Test1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

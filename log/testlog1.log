@@ -1,0 +1,20 @@
+2022-02-10 08:23:28,647 [main] INFO Log4jdemo - Setup method invoked line 1
+2022-02-10 08:23:28,653 [main] INFO Log4jdemo - Setup method invoked line 2
+2022-02-10 08:23:28,653 [main] INFO Log4jdemo - Setup method invoked line 3
+2022-02-10 08:23:28,664 [main] INFO Log4jdemo - LOGIN method invoked
+2022-02-10 08:23:28,669 [main] INFO Log4jdemo - Logout method invoked
+2022-02-10 08:26:33,994 [main] INFO Log4jdemo_new - Setup method invoked line 1
+2022-02-10 08:26:34,001 [main] INFO Log4jdemo_new - Setup method invoked line 2
+2022-02-10 08:26:34,001 [main] INFO Log4jdemo_new - Setup method invoked line 3
+2022-02-10 08:26:34,018 [main] INFO Log4jdemo_new - LOGIN method invoked
+2022-02-10 08:26:34,028 [main] INFO Log4jdemo_new - Logout method invoked
+2022-02-10 08:33:58,299 [main] INFO Log4jdemo - Setup method invoked line 1. I am testing the maximum length of this string. For that i need to add many sentences. So here i go. i have now implemented Log4j in my test case. And after this i want to see how this log is displayed in the report. I end it here
+2022-02-10 08:33:58,306 [main] INFO Log4jdemo - Setup method invoked line 2
+2022-02-10 08:33:58,307 [main] INFO Log4jdemo - Setup method invoked line 3
+2022-02-10 08:33:58,320 [main] INFO Log4jdemo - LOGIN method invoked
+2022-02-10 08:33:58,329 [main] INFO Log4jdemo - Logout method invoked
+2022-02-10 10:57:03,472 [main] INFO Log4jdemo - Setup method invoked line 1. I am testing the maximum length of this string. For that i need to add many sentences. So here i go. i have now implemented Log4j in my test case. And after this i want to see how this log is displayed in the report. I end it here
+2022-02-10 10:57:03,480 [main] INFO Log4jdemo - Setup method invoked line 2
+2022-02-10 10:57:03,481 [main] INFO Log4jdemo - Setup method invoked line 3
+2022-02-10 10:57:03,501 [main] INFO Log4jdemo - LOGIN method invoked
+2022-02-10 10:57:03,526 [main] INFO Log4jdemo - Logout method invoked

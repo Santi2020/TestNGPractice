@@ -1,0 +1,5 @@
+2022-02-09 19:22:45,695 - Log4jdemo -INFO - Setup method invoked line 1
+2022-02-09 19:22:45,701 - Log4jdemo -INFO - Setup method invoked line 2
+2022-02-09 19:22:45,702 - Log4jdemo -INFO - Setup method invoked line 3
+2022-02-09 19:22:45,719 - Log4jdemo -INFO - LOGIN method invoked
+2022-02-09 19:22:45,727 - Log4jdemo -INFO - Logout method invoked

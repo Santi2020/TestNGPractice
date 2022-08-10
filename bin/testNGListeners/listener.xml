@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="testnglistenersuite">
+	<listeners>
+		<listener class-name ="testNGListeners.Listeners"/>
+	</listeners>
+
+	<test name = "logintest">
+		<classes>
+			<class name="testNGListeners.LoginTest" />
+		</classes>
+	</test>
+
+</suite>
